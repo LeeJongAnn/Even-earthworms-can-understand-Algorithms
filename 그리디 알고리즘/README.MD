@@ -18,3 +18,29 @@
       cnt = num /coin_type[i]
       
       print(cnt)
+  - C++ 
+  
+    #include <iostream>
+
+using namespace std;
+
+int n = 362;
+
+int cnt = 0;
+
+int coinTypes[4] = {100, 50, 10,1};
+
+int main() {
+
+    for (int i = 0; i < 4; i++) {
+    
+        int coin = coinTypes[i];
+        
+        cnt += n / coin;
+        
+        n %= coin;
+    
+	}
+    cout << cnt << '\n';
+}
+   
