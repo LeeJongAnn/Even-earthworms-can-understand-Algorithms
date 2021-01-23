@@ -6,10 +6,15 @@
       
     - 그렇다면 100원 동전과 50원 짜리 동전 10원짜리 동전 1원짜리 동전을 코드로 만들고 큰 순서대로 나누면 될 것 같다.
   - 파이썬 
+  
     import os 
 
     num = 371
+    
     coin_type = [100,50,10,1]
+    
     for i in range(4):
+    
       cnt = num /coin_type[i]
+      
       print(cnt)
