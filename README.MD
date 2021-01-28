@@ -16,6 +16,7 @@
 3. 탐색(Search) 
   - 이진 탐색
   - 순차 
+  
 ★ 4. DFS(깊이 우선 탐색)/BFS (너비 우선 탐색)
   -
 ## Data Structure 
