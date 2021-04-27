@@ -2,7 +2,7 @@
 Data Structure &amp; Algorithms
 
 # Data-Structure and Algorithms
-- 기초 
+- 기초 다지기
 1. 4월 22일 K번째 약수 풀이
 2. 4월 24일 K번째 수 풀이
 3. 4월 25일 K번째 큰 수 풀이
