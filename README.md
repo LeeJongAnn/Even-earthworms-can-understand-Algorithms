@@ -6,3 +6,4 @@ Data Structure &amp; Algorithms
 1. 4월 22일 K번째 약수 풀이
 2. 4월 24일 K번째 수 풀이
 3. 4월 25일 K번째 큰 수 풀이
+4. 4월 27일 정다면체 풀이
