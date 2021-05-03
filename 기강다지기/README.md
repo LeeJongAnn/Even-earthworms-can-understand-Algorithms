@@ -36,7 +36,22 @@ k번째 값을 구한다는 것을 알 수 있다.
     print(i) -> 해당하는 i번째를 출력한다. 즉 i가 8일 때는 cnt값이 계속 증가돼서 4가 되게 되고
                 4는 k값과 일치하므로 즉 4번째 약수는 8이 된다는 것을 알 수 있다.
 
-이렇게 나타낼 수 있겠다. 
+이렇게 나타낼 수 있겠다.   
+전체 코드는 다음과 같다.   
+>import sys  
+>sys.stdin = open("in1.txt", "rt")  
+>n,k = map(int, input().split())  
+cnt = 0  
+for i in range(1,n+1):  
+    if n%i == 0:  
+        cnt += 1  
+    if cnt == k:  
+        print(i)  
+        break  
+else:  
+    print(-1)
+
+
 
 ---
 
@@ -93,6 +108,31 @@ max값을 어떤 특정 값으로 설정한 다음 반복문이 돌아가면서 
 125 15232 97가 입력값일때 자릿수의 합이 최대값인 수는 97이다
 
 ![img_1.png](img_1.png)
+
+
+전체 코드는 아래와 같다.  
+
+> import sys
+
+>sys.stdin = open("in5.txt", "r")  
+
+>n = int(input())  
+a = list(map(int, input().split()))  
+res = 0  
+max = -2147000000  
+
+>def digit_sum(x):  
+    sum = 0  
+    while x > 0:  
+        sum += x % 10  
+        x = x // 10  
+    return sum  
+for x in a:  
+    tot = digit_sum(x)  
+    if tot > max:
+        max = tot
+        res = x
+>print(res)
 
 자릿수의 합 해설 끝
 
