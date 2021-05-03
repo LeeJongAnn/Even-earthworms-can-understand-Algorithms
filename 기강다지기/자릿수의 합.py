@@ -1,17 +1,22 @@
 import sys
-sys.stdin = open('in5.txt', 'rt')
+
+sys.stdin = open("in5.txt", "r")
 
 n = int(input())
-k = list(map(int,input().split()))
-
+a = list(map(int, input().split()))
+res = 0
+max = -2147000000
 
 def digit_sum(x):
-    res = 0
-    while x>0 :
-        res += x % 10
+    sum = 0
+    while x > 0:
+        sum += x % 10
         x = x // 10
-    print(res)
+    return sum
+for x in a:
+    tot = digit_sum(x)
+    if tot > max:
+        max = tot
+        res = x
+print(res)
 
-for x in k:
-    total= digit_sum(x)
-    print(total,end = ' ')
