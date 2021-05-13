@@ -2,8 +2,6 @@
 # Even-earthworms-can-understand-Algorithms
 Data Structure &amp; Algorithms
 
-# Data-Structure and Algorithms
-
 # 목차  
 ### - [1.K번째 약수 해설](#K번째-약수-해설)  
 ### - [2.자릿수의 합 해설](#자릿수의-합-해설)  
