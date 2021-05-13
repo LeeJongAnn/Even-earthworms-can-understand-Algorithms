@@ -4,10 +4,11 @@ Data Structure &amp; Algorithms
 
 # Data-Structure and Algorithms
 
-[1.K번째 약수 해설](#K번째-약수-해설)
-[2.자릿수의 합 해설](#자릿수의-합-해설)
+목차
+[1.개발을 하고 싶어요](#개발을-하고-싶어요)
+[2.코딩을 잘하고 싶어요](#coding을-잘하고-싶어요)
 
-
+## 개발을 하고 싶어요
 
 
 ## 1.K번째 약수 해설
@@ -64,7 +65,7 @@ for i in range(1,n+1):
 else:  
     print(-1)
 
-
+## Coding을 잘하고 싶어요
 
 ---
 
