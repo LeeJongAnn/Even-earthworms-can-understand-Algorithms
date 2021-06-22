@@ -12,7 +12,13 @@ Data Structure &amp; Algorithms
 
 ### - [8.숫자만 추출 문제](#숫자만-추출-문제)
 
-# Data-Structure and Algorithms
+# 목차 - 스택 큐 해쉬
+
+### - [1.가장 큰 수 구하기]
+
+### - [2.큐를 이용한 조세퍼스]
+
+
 
 ## - 기초 다지기
 
@@ -38,4 +44,3 @@ Data Structure &amp; Algorithms
 
 > 1.가장 큰 수 구하기 - 6월 22일 
 > 2.공주 구하기 - 6월 22일 
-> 
