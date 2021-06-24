@@ -1,6 +1,6 @@
 import sys
 
-#sys.stdin = open('in1.txt', 'rt')
+sys.stdin = open('in1.txt', 'rt')
 
 num, m = map(int, input().split())
 
