@@ -1,19 +1,19 @@
 import sys
-sys.stdin = open("first.txt","rt")
+from collections import deque
 
-s = input()
-stack = []
+sys.stdin = open("first.txt", "rt")
 
-cnt = 0
-for i in range(len(s)):
+n, k = map(int, input().split())
+dq = list(range(1, n + 1))
+dq = deque(dq)
 
-    if s[i] == '(':
-        stack.append(s[i])
-    else:
-        if s[i-1] =='(':
-            stack.pop()
-            cnt += len(stack)
-        else:
-            stack.pop()
-            cnt+=1
-print(cnt)
+while dq:
+    for _ in range(k - 1):
+        cur = dq.popleft()
+        dq.append(cur)
+    dq.popleft()
+
+    if len(dq) == 1:
+        print(dq[0])
+        dq.popleft()
+
