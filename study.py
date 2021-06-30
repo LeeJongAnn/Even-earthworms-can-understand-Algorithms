@@ -2,18 +2,17 @@ import sys
 from collections import deque
 
 sys.stdin = open("first.txt", "rt")
+num , m = map(int , input().split())
 
-n, k = map(int, input().split())
-dq = list(range(1, n + 1))
-dq = deque(dq)
+num = list(map(int , str(num)))
+stack = []
+for x in num:
+    while stack and m>0 and stack[-1]<x:
 
-while dq:
-    for _ in range(k - 1):
-        cur = dq.popleft()
-        dq.append(cur)
-    dq.popleft()
-
-    if len(dq) == 1:
-        print(dq[0])
-        dq.popleft()
-
+        stack.pop()
+        m -= 1
+    stack.append(x)
+if m!=0:
+    stack = stack[:-m]
+res = ''.join(map(str,stack))
+print(res)
