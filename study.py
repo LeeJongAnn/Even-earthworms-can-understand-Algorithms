@@ -1,18 +1,22 @@
 import sys
 from collections import deque
 
-sys.stdin = open("first.txt", "rt")
-num , m = map(int , input().split())
+sys.stdin = open("first.txt","rt")
 
-num = list(map(int , str(num)))
-stack = []
-for x in num:
-    while stack and m>0 and stack[-1]<x:
+n,m = map(int,input().split())
+num = list(map(int,input().split()))
 
-        stack.pop()
-        m -= 1
-    stack.append(x)
-if m!=0:
-    stack = stack[:-m]
-res = ''.join(map(str,stack))
-print(res)
+
+Q = [(pos,val) for pos,val in enumerate(num)]
+Q = deque(Q)
+cnt = 0
+
+while True:
+    cur = Q.popleft()
+    if any(cur[1] < x[1] for x in Q):
+        Q.append(cur)
+    else:
+        cnt+=1
+        if cur[0] == m:
+            print(cnt)
+            break
