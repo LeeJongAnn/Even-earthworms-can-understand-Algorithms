@@ -54,5 +54,5 @@ Data Structure &amp; Algorithms
 
 > |기초 다지기|설명|
 > |------|---|
-> |[1. 회의실 사용하기 - 6월 30일]()| 시간 순서상 뒷자리와 앞자리가 이어지도록 만든다|
+> |[1. 회의실 사용하기 - 6월 30일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)| 시간 순서상 뒷자리와 앞자리가 이어지도록 만든다|
 > |2. 출전할 씨름선수 구하기 - 6월 30일| 튜플 자료형에 몸무게를 비교해서 갱신하고 카운트를 센다|
