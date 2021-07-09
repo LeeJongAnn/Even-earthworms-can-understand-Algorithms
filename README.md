@@ -41,7 +41,7 @@ Data Structure &amp; Algorithms
 
 > |스택 큐 해쉬|설명|
 > |------|---|
-> |1. 가장 큰 수 구하기 (Stack) - 6월 22일|..
+> |[1. 가장 큰 수 구하기 (Stack) - 6월 22일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%8A%A4%ED%83%9D%20%ED%81%90%20%ED%95%B4%EC%89%AC/Stack%20-%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98%20.py)| 새로 들어온 값과 이전에 있던 값을 비교해서 append|
 > |2. 큐를 이용한 조세퍼스(Queue) - 6월 22일| ..
 > |3. 막대기 개수 세기(Stack) - 6월 24일|..
 > |4. 응급환자 순서 정하기(Queue) - 6월 26일|..
