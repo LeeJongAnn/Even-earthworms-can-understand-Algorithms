@@ -57,4 +57,4 @@ Data Structure &amp; Algorithms
 > |[1. 회의실 사용하기 - 6월 30일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)| 시간 순서상 뒷자리와 앞자리가 이어지도록 만든다|
 > |[2. 출전할 씨름선수 구하기 - 6월 30일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%94%A8%EB%A6%84%EC%84%A0%EC%88%98%20%EC%84%A0%EB%B0%9C%ED%95%98%EA%B8%B0.py)| 튜플 자료형에 몸무게를 비교해서 갱신하고 카운트를 센다|
 > |[3. 창고 정리하기 - 7월 10일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%B0%BD%EA%B3%A0%EC%A0%95%EB%A6%AC.py)| 맨 앞과 맨 뒤를 최대와 최소로 놓고 서로 빼준다|
-> |[4. 타이타닉에서 살아남기 - 8월 3일]|정렬한 후 가장 몸무게가 많은 사람과 가장 적은 사람을 더해서 보트 무게 제한보다 큰지 작은지를 따진다|
+> |[4. 타이타닉에서 살아남기 - 8월 3일]()|정렬한 후 가장 몸무게가 많은 사람과 가장 적은 사람을 더해서 보트 무게 제한보다 큰지 작은지를 따진다|
