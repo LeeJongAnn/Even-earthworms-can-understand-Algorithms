@@ -62,4 +62,5 @@ Data Structure &amp; Algorithms
 > |[6. 역수열 - 8월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%97%AD%EC%88%98%EC%97%B4.py)|1부터 순서대로 앞에 빈자리가 있어야 하고 항상 자기보다 큰 수가 앞에 오는 것이다.|
 > |[7. 백준 11047 동전으로 지불하기](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%8F%99%EC%A0%84%EC%9C%BC%EB%A1%9C%20%EC%A7%80%EB%B6%88%ED%95%98%EA%B8%B0%20%EB%B0%B1%EC%A4%80%2011047%EB%B2%88.py)|K로 나눈 몫을 더하되 , 나머지를 다시 값으로 집어넣어서 다음번에 나눌때 나머지를 다음 동전으로 나눌 수 있도록 해준다.|
 > |[8. 백준 1541 잃어버린 괄호 - 8월 15일 (출처:https://pacific-ocean.tistory.com/228)](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%8F%99%EC%A0%84%EC%9C%BC%EB%A1%9C%20%EC%A7%80%EB%B6%88%ED%95%98%EA%B8%B0%20%EB%B0%B1%EC%A4%80%2011047%EB%B2%88.py)|-먼저 괄호치면 됨|
-> |[9. 백준 11399번 ATM 8월 16일]()|오름차순으로 정렬한 후 더하면 되면 최소값이 된다.|
+> |[9. 백준 11399번 ATM - 8월 16일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/ATM%20-%20%EB%B0%B1%EC%A4%80%2011399%EB%B2%88.py)|오름차순으로 정렬한 후 더하면 되면 최소값이 된다.|
+> |[10. 백준 5585번 일본판 거스름돈 구하기 - 8월 19일]()|일본판 동전구하기 처음에 입력값이 하나밖에 없어서 평소대로 동전 리스트 만들고 지불한 금액 넣어서 했는데 안돼서 그냥 읽는거 말고 자체 코드로 작성함|
