@@ -3,14 +3,20 @@ sys.stdin = open("in10.txt",'rt')
 
 n = int(input())
 
-length = list(map(int,input().split()))
-oil_price = list(map(int,input().split()))
-res = ''
-tmp = []
+roads = list(map(int,input().split()))
+costs = list(map(int,input().split()))
 
+res = roads[0] * costs[0]
+m = costs[0]
+dist = 0
 
-for i in range(n):
-
-    if len(length)<len(oil_price):
-        tmp.append((length[i],oil_price[i]))
-    print(tmp)
+for i in range(1,n-1):
+    if costs[i]<m:
+        res += m * dist
+        dist = roads[i]
+        m = costs[i]
+    else:
+        dist += roads[i]
+    if i == n-2:
+        res += m * dist
+print(res)
