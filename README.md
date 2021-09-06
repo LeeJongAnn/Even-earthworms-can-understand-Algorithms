@@ -10,7 +10,6 @@ Data Structure &amp; Algorithms
 ### - 4. Greedy 알고리즘
 
 
-
 ## - 기초 다지기
 
 > |기초 다지기|설명|
@@ -63,6 +62,14 @@ Data Structure &amp; Algorithms
 > |[7. 백준 11047 동전으로 지불하기](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%8F%99%EC%A0%84%EC%9C%BC%EB%A1%9C%20%EC%A7%80%EB%B6%88%ED%95%98%EA%B8%B0%20%EB%B0%B1%EC%A4%80%2011047%EB%B2%88.py)|K로 나눈 몫을 더하되 , 나머지를 다시 값으로 집어넣어서 다음번에 나눌때 나머지를 다음 동전으로 나눌 수 있도록 해준다.|
 > |[8. 백준 1541 잃어버린 괄호 - 8월 15일 (출처:https://pacific-ocean.tistory.com/228)](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8%20-%20%EB%B0%B1%EC%A4%80%201541%EB%B2%88.py)|문자열을 사칙연산자를 기준으로 쪼갠다.|
 > |[9. 백준 11399번 ATM - 8월 16일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/ATM%20-%20%EB%B0%B1%EC%A4%80%2011399%EB%B2%88.py)|오름차순으로 정렬한 후 더하면 되면 최소값이 된다.|
-> |[10. 백준 5585번 일본판 거스름돈 구하기 - 8월 19일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8%20-%20%EB%B0%B1%EC%A4%80%201541%EB%B2%88.py)|일본판 동전구하기 처음에 입력값이 하나밖에 없어서 평소대로 동전 리스트 만들고 지불한 금액 넣어서 했는데 안돼서 그냥 읽는거 말고 자체 코드로 작성함|
+> |[10. 백준 5585번 일본판 거스름돈 구하기 - 8월 19일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88%20%EC%9D%BC%EB%B3%B8%ED%8C%90%20-%20%EB%B0%B1%EC%A4%80%205585%EB%B2%88.py)|일본판 동전구하기 처음에 입력값이 하나밖에 없어서 평소대로 동전 리스트 만들고 지불한 금액 넣어서 했는데 안돼서 그냥 읽는거 말고 자체 코드로 작성함|
 > |[11. 백준 13305번 주유소에 기름넣고 가기 - 8월 27일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%A3%BC%EC%9C%A0%EC%86%8C%20-%20%EB%B0%B1%EC%A4%80%2013305%EB%B2%88.py)|첫번째 도시에서 무조건 기름을 넣어야 된다는게 중요한 포인트이다.|
-> |[12. 백준 2839번 설탕배달 - 9월 3일 (출처:https://ooyoung.tistory.com/81)]()|if문을 통해서 나머지가 안남는경우를 5kg 봉지 개수를 구하고 만약에 아닌 경우에는 -3을 빼고 3kg 짜리 봉지를 하나 추가하며 반복문을 돈다.|
+> |[12. 백준 2839번 설탕배달 - 9월 3일 (출처:https://ooyoung.tistory.com/81)]()|if문을 통해서 나머지가 안남는경우를 5kg 봉지 개수를 구하고 만약에 아닌 경우에는 -3을 빼고 3kg 짜리 봉지를 하나 추가하며 반복문을 돈다. |
+
+
+## - DFS 
+
+> |DFS 알고리즘|설명|
+> |------|---|
+> |[1.부분집합 구하기]()|사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다|
+> |[2.합이 같은 부분집합]()|총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면|

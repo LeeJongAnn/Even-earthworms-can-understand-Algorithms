@@ -1,5 +1,6 @@
 import sys
 sys.stdin = open('in2.txt','rt')
+
 def DFS(L,sum):
     if L==n:
         if sum == (total - sum):
