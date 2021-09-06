@@ -2,13 +2,16 @@
 
 Data Structure &amp; Algorithms
 
-## 목차 
+<details>
+<summary>목차 <- 클릭</summary>
 
 ### - 1. 기초 다지기  
 ### - 2. 탐색과 시뮬레이션     
 ### - 3. 스택 큐 해쉬  
 ### - 4. Greedy 알고리즘
 ### - 5. DFS 알고리즘
+
+</details>
 
 
 ## - 기초 다지기
@@ -72,5 +75,5 @@ Data Structure &amp; Algorithms
 
 > |DFS 알고리즘|설명|
 > |------|---|
-> |[1.부분집합 구하기](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다|
-> |[2.합이 같은 부분집합](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)|총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면|
+> |[1.부분집합 구하기 - 9월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다|
+> |[2.합이 같은 부분집합- 9월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)|총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면|
