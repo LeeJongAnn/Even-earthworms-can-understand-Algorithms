@@ -7,11 +7,10 @@ Data Structure &amp; Algorithms
 
 ### - 1. 기초 다지기  
 ### - 2. 탐색과 시뮬레이션     
-### - 3. 스택 큐 해쉬  
+### - 3. 스택 큐 해쉬
 ### - 4. Greedy 알고리즘
 ### - 5. DFS 알고리즘
 ### - 6. 정렬 알고리즘
-
 
 </details>
 
@@ -34,8 +33,8 @@ Data Structure &amp; Algorithms
 
 > |탐색과 시뮬레이션|설명|
 > |------|---|
-> |1. 회문 문자열 검사 공부 - 5월 11일 |-> ~~계속 푸는데 중간에 오류남..~~|
-> |2. 숫자만 추출 문제 공부 - 5월 14일 |~~5월 14일 해설 작성 중~~ 작성완료|
+> |1. 회문 문자열 검사 공부 - 5월 11일 ||
+> |2. 숫자만 추출 문제 공부 - 5월 14일 ||
 > |3. 자리 배치 바꾸기 공부 - 5월 20일 |..|
 > |4. 격자판 최대합 공부 - 5월 20일 |..|
 > |5. 카드 역배치 공부 - 5월 25일|.. |
@@ -47,12 +46,12 @@ Data Structure &amp; Algorithms
 > |스택 큐 해쉬|설명|
 > |------|---|
 > |[1. 가장 큰 수 구하기 (Stack) - 6월 22일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%8A%A4%ED%83%9D%20%ED%81%90%20%ED%95%B4%EC%89%AC/Stack%20-%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98%20.py)| 새로 들어온 값과 이전에 있던 값을 비교해서 append|
-> |2. 큐를 이용한 조세퍼스(Queue) - 6월 22일| ..
-> |3. 막대기 개수 세기(Stack) - 6월 24일|..
-> |4. 응급환자 순서 정하기(Queue) - 6월 26일|..
-> |5. 교육과정설계(Queue) - 6월 26일 |..
-> |6. 안 쓰인 단어 찾기(Hash) - 6월 27일|..
-> |7. 애니그램(Hash) - 6월 28일 |..
+> |2. 큐를 이용한 조세퍼스(Queue) - 6월 22일| .. |
+> |3. 막대기 개수 세기(Stack) - 6월 24일|.. |
+> |4. 응급환자 순서 정하기(Queue) - 6월 26일|..|
+> |5. 교육과정설계(Queue) - 6월 26일 |..|
+> |6. 안 쓰인 단어 찾기(Hash) - 6월 27일|..|
+> |7. 애니그램(Hash) - 6월 28일 |..|
 
 
 ## - Greedy 알고리즘 
@@ -83,4 +82,13 @@ Data Structure &amp; Algorithms
 > |[2.합이 같은 부분집합 - 9월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)|총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면 그때를 YES로 출력한다.|
 > |[3.강아지 데리고 타기 (cut-Edge) - 9월 9일]()| 전체 경우의 수를 다 따지지 않고 합계가 무게 제한을 넘는 경우를 커트해준다.|
 > |[4.중복순열 - 9월 17일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4.py)| 한개의 노드에 차수가 여러개이므로 반복문을 사용하여 돌아간다.|
-> |[5.조합 - 9월 28]()| 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.|
+> |[5.조합 - 9월 28일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A1%B0%ED%95%A9.py)| 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.|
+
+
+
+## - 정렬
+***
+> |정렬 알고리즘|설명|
+> |------|---|
+> |1.위에서 아래로 - 9월 29일| 기초적인 정렬 문제이다 . 숫자를 내림차순으로 정렬한다.|
+> |1.성적이 낮은 순서로 출력하기 - 9월 29일| 점수대로 정렬하고 그와 이어진 이름을 출력한다. 파이썬 문법에 대해서 알아야 한다.|
