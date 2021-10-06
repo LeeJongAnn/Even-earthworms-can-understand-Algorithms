@@ -74,8 +74,8 @@ Data Structure &amp; Algorithms
 > |[13. 큰 수의 법칙 - 9월 28일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.py)|가장 큰 수와 두번째로 큰 수를 찾는다|
 > |[14. 숫자 카드 게임 - 9월 28일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py)|라인 별로 정렬해서 가장 작은 수를 찾고 그 작은 수에서 가장 큰 수를 찾는다.|
 > |[15. 1이 될 때까지 - 9월 28일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/1%EC%9D%B4%20%EB%90%A0%EB%95%8C%EA%B9%8C%EC%A7%80.py)|나누기가 불가능하면 1을 빼준 뒤 나눈다.|
-> |[16. 캠핑 - 백준 4796번 - 10월 6일 ]()| 실마리는 잡은것 같은데..?|
-> |[17. 로프 - 백준 2217번 - 10월 6일 ]()| 맞았는데 왜 틀리냐|
+> |[16. 백준 4796번 캠핑 - 10월 6일 ]()| 실마리는 잡은것 같은데..?|
+> |[17. 백준 2217번 로프 - 10월 6일 ]()| 맞았는데 왜 틀리냐|
 
 
 ## - DFS 
