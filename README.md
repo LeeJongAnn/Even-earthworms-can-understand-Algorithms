@@ -76,11 +76,12 @@ Data Structure &amp; Algorithms
 > |[15. 1이 될 때까지 - 9월 28일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/1%EC%9D%B4%20%EB%90%A0%EB%95%8C%EA%B9%8C%EC%A7%80.py)|나누기가 불가능하면 1을 빼준 뒤 나눈다.|
 > |[16. 백준 4796번 캠핑 - 10월 6일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%BA%A0%ED%95%91%20-%20%EB%B0%B1%EC%A4%80%204796%EB%B2%88.py)| 맞았는데 왜 틀리냐2|
 > |[17. 백준 2217번 로프 - 10월 6일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%A1%9C%ED%94%84%20-%20%EB%B0%B1%EC%A4%80%202217%EB%B2%88.py)| 맞았는데 왜 틀리냐|
-
+> |[18. 모험가 길드 - 6월 28일]()|해치웠나...?|
+> |[19. 곱하기아니면더하기 - 6월 28일]()|틀림..|
 
 ## - DFS 
 ***
-> |DFS 알고리즘|설명|
+> |완전탐색 알고리즘|설명|
 > |------|---|
 > |[1.부분집합 구하기 - 9월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다.|
 > |[2.합이 같은 부분집합 - 9월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)|총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면 그때를 YES로 출력한다.|
