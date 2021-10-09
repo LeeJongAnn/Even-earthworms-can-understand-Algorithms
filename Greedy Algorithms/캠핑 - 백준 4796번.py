@@ -1,14 +1,22 @@
 import sys
 sys.stdin = open("in15.txt", "rt")
 
-l,p,v = map(int ,input().split())
+s,e,q = map(int,input().split())
+count = q // e
+moduler = q % e
+result = 0
+for i in range(count):
+    result += s
+if moduler<=s:
+    result +=moduler
+print("Case1: " + str(result))
 
-count = int(v//p)
-intro = int(v%p)
-result = (count * l) + intro
-
-count2 = int(v//p)
-intro2 = int(v%p)
-result2 = (count2 * l) + intro
-print("Case 1: " + str(result))
-print("Case 2: " + str(result2))
+s2,e2,q2 = map(int,input().split())
+count2 = q2 // e2
+moduler2 = q2 % e2
+result2 = 0
+for i in range(count2):
+    result2 += s2
+if moduler2<=s2:
+    result2 +=moduler2
+print("Case2: " + str(result2))
