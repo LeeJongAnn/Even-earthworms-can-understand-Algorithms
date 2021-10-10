@@ -78,6 +78,7 @@ Data Structure &amp; Algorithms
 > |[17. 백준 2217번 로프 - 10월 6일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%A1%9C%ED%94%84%20-%20%EB%B0%B1%EC%A4%80%202217%EB%B2%88.py)| 맞았는데 왜 틀리냐|
 > |[18. 모험가 길드 - 10월 9일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%AA%A8%ED%97%98%EA%B0%80%EA%B8%B8%EB%93%9C.py)|해치웠나...?|
 > |[19. 곱하기아니면더하기 - 10월 9일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EA%B3%B1%ED%95%98%EA%B8%B0%EC%95%84%EB%8B%88%EB%A9%B4%EB%8D%94%ED%95%98%EA%B8%B0.py)|틀림..|
+> |[20. 백준 1439번 문자열 뒤집기 - 10월 10일]()|결과에 근접한것 같은데 틀림|
 
 ## - DFS 
 ***
