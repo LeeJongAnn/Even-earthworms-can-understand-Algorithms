@@ -63,8 +63,8 @@ Data Structure &amp; Algorithms
 > |[2. 출전할 씨름선수 구하기 - 6월 30일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%94%A8%EB%A6%84%EC%84%A0%EC%88%98%20%EC%84%A0%EB%B0%9C%ED%95%98%EA%B8%B0.py)| 튜플 자료형에 몸무게를 비교해서 갱신하고 카운트를 센다|
 > |[3. 창고 정리하기 - 7월 10일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%B0%BD%EA%B3%A0%EC%A0%95%EB%A6%AC.py)| 맨 앞과 맨 뒤를 최대와 최소로 놓고 서로 빼준다|
 > |[4. 타이타닉에서 살아남기 - 8월 3일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%EC%97%90%EC%84%9C%20%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0.py)|정렬한 후 가장 몸무게가 많은 사람과 가장 적은 사람을 더해서 보트 무게 제한보다 큰지 작은지를 따진다|
-> |[5. 증가수열 - 8월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4.py)|왼쪽과 오른쪽을 번갈아가면서 뽑고 마지막에 뽑은값과 비교하여 수열에 집어넣는다 while 문을 이용하고 왼쪽끝과 오른쪽 끝을 lt 와 rt로 선언한다|
-> |[6. 역수열 - 8월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%97%AD%EC%88%98%EC%97%B4.py)|1부터 순서대로 앞에 빈자리가 있어야 하고 항상 자기보다 큰 수가 앞에 오는 것이다.|
+> |[5. 증가수열 - 10월 13일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%A6%9D%EA%B0%80%EC%88%98%EC%97%B4.py)|왼쪽과 오른쪽을 번갈아가면서 뽑고 마지막에 뽑은값과 비교하여 수열에 집어넣는다 while 문을 이용하고 왼쪽끝과 오른쪽 끝을 lt 와 rt로 선언한다|
+> |[6. 역수열 - 10월 13일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%97%AD%EC%88%98%EC%97%B4.py)|1부터 순서대로 앞에 빈자리가 있어야 하고 항상 자기보다 큰 수가 앞에 오는 것이다.|
 > |[7. 백준 11047 동전으로 지불하기](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%8F%99%EC%A0%84%EC%9C%BC%EB%A1%9C%20%EC%A7%80%EB%B6%88%ED%95%98%EA%B8%B0%20%EB%B0%B1%EC%A4%80%2011047%EB%B2%88.py)|K로 나눈 몫을 더하되 , 나머지를 다시 값으로 집어넣어서 다음번에 나눌때 나머지를 다음 동전으로 나눌 수 있도록 해준다.|
 > |[8. 백준 1541 잃어버린 괄호 - 8월 15일 (출처:https://pacific-ocean.tistory.com/228)](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8%20-%20%EB%B0%B1%EC%A4%80%201541%EB%B2%88.py)|문자열을 사칙연산자를 기준으로 쪼갠다.|
 > |[9. 백준 11399번 ATM - 8월 16일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/ATM%20-%20%EB%B0%B1%EC%A4%80%2011399%EB%B2%88.py)|오름차순으로 정렬한 후 더하면 되면 최소값이 된다.|
@@ -79,6 +79,7 @@ Data Structure &amp; Algorithms
 > |[18. 모험가 길드 - 10월 9일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%AA%A8%ED%97%98%EA%B0%80%EA%B8%B8%EB%93%9C.py)|해치웠나...?|
 > |[19. 곱하기아니면더하기 - 10월 9일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EA%B3%B1%ED%95%98%EA%B8%B0%EC%95%84%EB%8B%88%EB%A9%B4%EB%8D%94%ED%95%98%EA%B8%B0.py)|틀림..|
 > |[20. 백준 1439번 문자열 뒤집기 - 10월 10일]()|결과에 근접한것 같은데 틀림|
+
 
 ## - DFS 
 ***
