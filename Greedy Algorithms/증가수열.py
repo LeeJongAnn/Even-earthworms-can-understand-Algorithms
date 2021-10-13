@@ -1,28 +1,28 @@
 import sys
 sys.stdin = open("in5.txt", "rt")
-n = int(input())
-num = list(map(int,input().split()))
-lt = 0
-rt = n-1
-last = 0
-tmp = []
-res = ''
 
+n=int(input())
+a=list(map(int, input().split()))
+lt=0
+rt=n-1
+last=0
+res=""
+tmp=[]
 while lt<=rt:
-    if lt>last:
-        tmp.append((num[lt],'L'))
-    if rt>last:
-        tmp.append((num[rt],'R'))
+    if a[lt]>last:
+        tmp.append((a[lt], 'L'))
+    if a[rt]>last:
+        tmp.append((a[rt], 'R'))
     tmp.sort()
-    if len(tmp) == 0:
+    if len(tmp)==0:
         break
     else:
-        res = res + tmp[0][1]
-        last = tmp[0][0]
-        if tmp[0][1] == 'L':
-            lt +=1
+        res=res+tmp[0][1]
+        last=tmp[0][0]
+        if tmp[0][1]=='L':
+            lt=lt+1
         else:
-            rt -=1
+            rt=rt-1
     tmp.clear()
 
 print(len(res))
