@@ -1,21 +1,23 @@
 import sys
 sys.stdin = open('in6.txt','rt')
 
-def DFS(v):
-
-    if v == s+1:
-        for i in range(1,s+1):
-            if ch[i] == 1:
-                print(i,end= " ")
-            print()
+def DFS(L,sum):
+    if sum>e:
+        return
+    global result
+    if L == s:
+        if sum>result:
+            result = sum
     else:
-        ch[v] = 1
-        DFS(v+1)
-        ch[v] = 0
-        DFS(v+1)
+        DFS(L+1,sum+a[L])
+        DFS(L+1,sum)
+
+
 
 if __name__ == "__main__":
     s,e = map(int,input().split())
     a = list(map(int,input().split()))
-    ch = [0] * (s+1)
-    DFS(5)
+    result = 0
+    ch = [0] * s
+    DFS(0,0)
+    print(result)
