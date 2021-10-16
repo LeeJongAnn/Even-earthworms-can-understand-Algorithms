@@ -2,6 +2,7 @@
 
 Data Structure &amp; Algorithms
 
+
 <details>
 <summary>목차 <- 클릭</summary>
 
@@ -75,7 +76,7 @@ Data Structure &amp; Algorithms
 > |[13. 큰 수의 법칙 - 9월 28일      ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.py)|가장 큰 수와 두번째로 큰 수를 찾는다|
 > |[14. 숫자 카드 게임 - 9월 28일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py)|라인 별로 정렬해서 가장 작은 수를 찾고 그 작은 수에서 가장 큰 수를 찾는다.|
 > |[15. 1이 될 때까지 - 9월 28일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/1%EC%9D%B4%20%EB%90%A0%EB%95%8C%EA%B9%8C%EC%A7%80.py)|나누기가 불가능하면 1을 빼준 뒤 나눈다.|
-> |[16. 백준 4796번 캠핑 - 10월 6일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%BA%A0%ED%95%91%20-%20%EB%B0%B1%EC%A4%80%204796%EB%B2%88.py)| 맞았는데 왜 틀리냐2|
+> |[16. 백준 4796번 캠핑 - 10월 16일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%BA%A0%ED%95%91%20-%20%EB%B0%B1%EC%A4%80%204796%EB%B2%88.py)| 이것도 안돼?|
 > |[17. 백준 2217번 로프 - 10월 6일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%A1%9C%ED%94%84%20-%20%EB%B0%B1%EC%A4%80%202217%EB%B2%88.py)| 맞았는데 왜 틀리냐|
 > |[18. 모험가 길드 - 10월 9일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%AA%A8%ED%97%98%EA%B0%80%EA%B8%B8%EB%93%9C.py)|해치웠나...?|
 > |[19. 곱하기아니면더하기 - 10월 9일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EA%B3%B1%ED%95%98%EA%B8%B0%EC%95%84%EB%8B%88%EB%A9%B4%EB%8D%94%ED%95%98%EA%B8%B0.py)|틀림..|
