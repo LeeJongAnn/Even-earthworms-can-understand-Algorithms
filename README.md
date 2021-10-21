@@ -84,6 +84,7 @@ Data Structure &amp; Algorithms
 > |[20. 백준 1439번 문자열 뒤집기 - 10월 10일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|결과에 근접한것 같은데 틀림|
 > |[21. 만들 수 없는 금액 - 10월 13일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%A7%8C%EB%93%A4%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EA%B8%88%EC%95%A1.py)|만들 수 없는 금액이라서 풀 수 없는거 아님?|
 > |[22. 볼링공 고르기 - 10월 19일    ]()|서로 다른 무게의 볼링공을 골라야 한다.|
+> |[23. 백준 1715번 카드 정렬하기 - 10월 21일    ]()|풀 수 있을것 같았는데..|
 
 
 ## - DFS 
