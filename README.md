@@ -41,7 +41,8 @@ Data Structure &amp; Algorithms
 > |4. 격자판 최대합  - 5월 20일 |..|
 > |5. 카드 역배치  - 5월 25일|.. |
 > |[6. 상하좌우 - 10월 1일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)| 좌표를 구성하고 좌표값에 따른 + - 를 지정해준다. |
-> |[7. 시각  - 10월 15일]()| 특정 수가 한번이라도 들어가있는 00시 00분 00초를 모두 구하는것 |
+> |[7. 시각  - 10월 15일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%8B%9C%EA%B0%81.py)| 특정 수가 한번이라도 들어가있는 00시 00분 00초를 모두 구하는것 |
+> |[8. 백준 18406번 럭키 스트레이트  - 10월 24일]()| 반으로 나눠서 양옆에 값이 같다는 것을 구해야 한다 |
 
 ***
 
@@ -80,12 +81,12 @@ Data Structure &amp; Algorithms
 > |[16. 백준 4796번 캠핑 - 10월 16일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%BA%A0%ED%95%91%20-%20%EB%B0%B1%EC%A4%80%204796%EB%B2%88.py)| 8번에서 5번만 연속해서 캠핑하므로 반복문으로 돌면서 계산해준다|
 > |[17. 백준 2217번 로프 - 10월 20일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%A1%9C%ED%94%84%20-%20%EB%B0%B1%EC%A4%80%202217%EB%B2%88.py)| 답안 수정 |
 > |[18. 모험가 길드 - 10월 19일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%AA%A8%ED%97%98%EA%B0%80%EA%B8%B8%EB%93%9C.py)|답안 수정 |
-> |[19. 곱하기아니면더하기 - 10월 9일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EA%B3%B1%ED%95%98%EA%B8%B0%EC%95%84%EB%8B%88%EB%A9%B4%EB%8D%94%ED%95%98%EA%B8%B0.py)|틀림..|
+> |[19. 곱하기 아니면 더하기 - 10월 9일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EA%B3%B1%ED%95%98%EA%B8%B0%EC%95%84%EB%8B%88%EB%A9%B4%EB%8D%94%ED%95%98%EA%B8%B0.py)|틀림..|
 > |[20. 백준 1439번 문자열 뒤집기 - 10월 22일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)| 0 과 1을 교환해준다. |
 > |[21. 만들 수 없는 금액 - 10월 13일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%A7%8C%EB%93%A4%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EA%B8%88%EC%95%A1.py)|만들 수 없는 금액이라서 풀 수 없는거 아님?|
-> |[22. 볼링공 고르기 - 10월 19일    ]()|서로 다른 무게의 볼링공을 골라야 한다.|
-> |[23. 백준 1715번 카드 정렬하기 - 10월 21일    ]()|풀 수 있을것 같았는데..|
-> |[24. 백준 1789번 수들의 합 - 10월 23일    ]()|풀 수 있을것 같았는데..|
+> |[22. 볼링공 고르기 - 10월 19일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%B3%BC%EB%A7%81%EA%B3%B5%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)| 서로 다른 무게의 볼링공을 골라야 한다.|
+> |[23. 백준 1715번 카드 정렬하기 - 10월 21일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20-%20%EB%B0%B1%EC%A4%80%201715%EB%B2%88.py)| 풀 수 있을것 같았는데..|
+> |[24. 백준 1789번 수들의 합 - 10월 23일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%20-%20%EB%B0%B1%EC%A4%80%201789%EB%B2%88.py)| 200이 안되는데? |
 
 
 ## - DFS 
