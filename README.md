@@ -42,7 +42,7 @@ Data Structure &amp; Algorithms
 > |5. 카드 역배치  - 5월 25일|.. |
 > |[6. 상하좌우 - 10월 1일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)| 좌표를 구성하고 좌표값에 따른 + - 를 지정해준다. |
 > |[7. 시각  - 10월 15일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%8B%9C%EA%B0%81.py)| 특정 수가 한번이라도 들어가있는 00시 00분 00초를 모두 구하는것 |
-> |[8. 백준 18406번 럭키 스트레이트  - 10월 24일]()| 반으로 나눠서 양옆에 값이 같다는 것을 구해야 한다 |
+> |[8. 백준 18406번 럭키 스트레이트  - 10월 24일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20-%20%EB%B0%B1%EC%A4%80%2018406%EB%B2%88.py)| 반으로 나눠서 양옆에 값이 같다는 것을 구해야 한다 |
 
 ***
 
@@ -87,6 +87,7 @@ Data Structure &amp; Algorithms
 > |[22. 볼링공 고르기 - 10월 19일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%B3%BC%EB%A7%81%EA%B3%B5%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)| 서로 다른 무게의 볼링공을 골라야 한다.|
 > |[23. 백준 1715번 카드 정렬하기 - 10월 21일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20-%20%EB%B0%B1%EC%A4%80%201715%EB%B2%88.py)| 풀 수 있을것 같았는데..|
 > |[24. 백준 1789번 수들의 합 - 10월 23일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%20-%20%EB%B0%B1%EC%A4%80%201789%EB%B2%88.py)| 200이 안되는데? |
+> |[25. 백준 10162번 전자레인지 - 10월 26일    ]()| 실마리는 잡은것 같은데? |
 
 
 ## - DFS 
