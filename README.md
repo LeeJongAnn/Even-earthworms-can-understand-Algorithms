@@ -87,7 +87,7 @@ Data Structure &amp; Algorithms
 > |[22. 볼링공 고르기 - 10월 19일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%B3%BC%EB%A7%81%EA%B3%B5%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)| 서로 다른 무게의 볼링공을 골라야 한다.|
 > |[23. 백준 1715번 카드 정렬하기 - 10월 21일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20-%20%EB%B0%B1%EC%A4%80%201715%EB%B2%88.py)| 풀 수 있을것 같았는데..|
 > |[24. 백준 1789번 수들의 합 - 10월 23일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%20-%20%EB%B0%B1%EC%A4%80%201789%EB%B2%88.py)| 200이 안되는데? |
-> |[25. 백준 10162번 전자레인지 - 10월 26일    ]()| 실마리는 잡은것 같은데? |
+> |[25. 백준 10162번 전자레인지 - 10월 28일    ]()| ~~~실마리는 잡은것 같은데?~~~답안수정 (뭥미..) |
 
 
 ## - DFS 
