@@ -1,22 +1,22 @@
 import sys
-
 sys.stdin = open("in15.txt", "rt")
-
 count = 1
+
 while True:
-    L, P, V = map(int, input().split())
 
+    L,P,V = map(int,input().split())
     if L == 0 & P == 0 & V == 0:
-        break;
+        break
 
-    num, rest = divmod(V, P)
+    num,rest= divmod(V,P)
 
-    result = num * L + (L if rest > L else rest)
+    result = L * num + (rest if rest>L else rest)
+    print("Case"+str(count) + ":",result)
+    count +=1
 
-    print("Case " + str(count) + ":", result)
-    count += 1
-# 이래도 안풀려???
-# 부족한 실력에 좌절을 .....
+
+
+
 # n,p,q = map(int,input().split())
 # s,e,u = map(int,input().split())
 # cnt = 0

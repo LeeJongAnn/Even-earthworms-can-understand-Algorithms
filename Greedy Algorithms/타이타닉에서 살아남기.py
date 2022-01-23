@@ -1,11 +1,10 @@
 import sys
 from collections import deque
-
 sys.stdin = open("in4.txt", "rt")
-
 n, limit = map(int, input().split())
 p = list(map(int, input().split()))
 p.sort()
+print(p)
 p = deque(p)
 cnt = 0
 while p:

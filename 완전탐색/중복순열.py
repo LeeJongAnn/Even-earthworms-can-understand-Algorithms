@@ -1,7 +1,6 @@
 import sys
 sys.stdin = open('in4.txt','rt')
 
-
 def DFS(L):
     global cnt
     if L==m:

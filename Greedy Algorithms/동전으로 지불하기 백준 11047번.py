@@ -1,7 +1,7 @@
 import sys
 sys.stdin = open('in7.txt','rt')
-n,k=map(int,input().split())
-coin=[]
+n,k = map(int,input().split())
+coin = []
 result = 0
 for i in range(n):
     num = int(input())

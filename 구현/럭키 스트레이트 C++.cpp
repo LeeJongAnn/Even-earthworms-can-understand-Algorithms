@@ -16,6 +16,8 @@ int main(void) {
         summary -= str[i] - '0';
     }
 
-    if (summary == 0) cout << "LUCKY" << '\n';
-    else cout << "READY" << '\n';
+    if (summary == 0)
+        cout << "LUCKY" << '\n';
+    else
+        cout << "READY" << '\n';
 }

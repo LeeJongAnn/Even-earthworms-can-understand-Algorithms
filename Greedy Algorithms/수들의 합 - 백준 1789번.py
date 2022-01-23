@@ -4,7 +4,7 @@ n = int(input())
 result = 0
 tmp = []
 cnt = 0
-for i in range(1,50):
+for i in range(1,n):
     if result<=200:
         result += i
         tmp.append(i)

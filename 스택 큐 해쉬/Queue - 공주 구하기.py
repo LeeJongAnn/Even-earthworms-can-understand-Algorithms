@@ -1,5 +1,4 @@
 import sys
-
 sys.stdin = open("in2.txt", "rt")
 from collections import deque
 

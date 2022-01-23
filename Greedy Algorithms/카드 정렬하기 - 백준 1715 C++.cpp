@@ -4,7 +4,12 @@ using namespace std;
 int N;
 priority_queue<int, vector<int>, greater<int>> Q;
 
-int main() {ios_base::sync_with_stdio(false); cout.tie(NULL); cin.tie(NULL);
+int main() {
+
+ios_base::sync_with_stdio(false);
+
+cout.tie(NULL);
+cin.tie(NULL);
 
 cin >> N;
 // 정렬된 묶음이 한개만 들어오면 비교할 필요 없다.

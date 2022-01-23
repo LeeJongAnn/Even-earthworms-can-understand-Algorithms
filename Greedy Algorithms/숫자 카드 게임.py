@@ -1,23 +1,22 @@
 import sys
 sys.stdin = open("in17.txt", "rt")
-
 s,e = map(int,input().split())
-a = list(map(int,input().split()))
-b = list(map(int,input().split()))
-# c = list(map(int,input().split()))
-a.sort(reverse=True)
-first = a[-1]
-b.sort(reverse=True)
-second = b[-1]
-# c.sort(reverse=True)
-# third = c[-1]
+low1 = list(map(int,input().split()))
+low2 = list(map(int,input().split()))
+print(low1)
+print(low2)
+low1.sort(reverse=True)
+low2.sort(reverse=True)
+print(low1)
+print(low2)
+first = low1[-1]
+second = low2[-1]
 tmp = 0
-for i in range(s):
+print(first)
+print(second)
+for i in range(1):
     if first>tmp:
         tmp = first
-    elif second>tmp:
+    if second>tmp:
         tmp = second
-    # elif third>tmp:
-    #     tmp = third
 print(tmp)
-

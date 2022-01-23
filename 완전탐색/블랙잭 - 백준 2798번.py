@@ -13,7 +13,6 @@ def DFS(L,sum):
         DFS(L+1,sum)
 
 
-
 if __name__ == "__main__":
     s,e = map(int,input().split())
     a = list(map(int,input().split()))

@@ -1,18 +1,19 @@
 import sys
 sys.stdin = open("in1.txt","rt")
-n =int(input())
+n = int(input())
 body = []
 
 for i in range(n):
-    s,e = map(int , input().split())
-    body.append((s,e))
+    length,weight = map(int,input().split())
+    body.append((length,weight))
 
 body.sort(reverse=True)
 largest = 0
 cnt = 0
-
-for x ,y in body:
-    if y>largest:
+print(body)
+for x,y in body:
+    if largest<y:
         largest=y
-        cnt+=1
+        cnt += 1
+    print(x,y)
 print(cnt)
