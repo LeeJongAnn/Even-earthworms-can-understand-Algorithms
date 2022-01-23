@@ -37,16 +37,17 @@ Data Structure &amp; Algorithms
 
 ## - 구현
 
-> |구현|설명|
-> |------|---|
-> |1. 회문 문자열 검사 - 5월 11일 ||
-> |2. 숫자만 추출 문제 - 5월 14일 ||
-> |3. 자리 배치 바꾸기 - 5월 20일 |..|
-> |4. 격자판 최대합 - 5월 20일 |..|
-> |5. 카드 역배치 - 5월 25일|.. |
-> |[6. 상하좌우 - 10월 1일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)| 좌표를 구성하고 좌표값에 따른 + - 를 지정해준다. |
-> |[7. 시각 - 10월 15일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%8B%9C%EA%B0%81.py)| 특정 수가 한번이라도 들어가있는 00시 00분 00초를 모두 구하는것 |
-> |[8. 백준 18406번 럭키 스트레이트 - 10월 24일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20-%20%EB%B0%B1%EC%A4%80%2018406%EB%B2%88.py)| 반으로 나눠서 양옆에 값이 같다는 것을 구해야 한다 |
+> | 구현                                                                                                                                                                                                                                                                                                                 | 설명                                                                                   |
+> |--------------------------------------------------------------------------------------|-------------|
+> | 1. 회문 문자열 검사 - 5월 11일                                                                                                                                                                                                                                                                                              ||
+> | 2. 숫자만 추출 문제 - 5월 14일                                                                                                                                                                                                                                                                                              ||
+> | 3. 자리 배치 바꾸기 - 5월 20일                                                                                                                                                                                                                                                                                              | ..                                                                                   |
+> | 4. 격자판 최대합 - 5월 20일                                                                                                                                                                                                                                                                                                | ..                                                                                   |
+> | 5. 카드 역배치 - 5월 25일                                                                                                                                                                                                                                                                                                 | ..                                                                                   |
+> | [6. 상하좌우 - 10월 1일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)                                                                                        | 좌표를 구성하고 좌표값에 따른 + - 를 지정해준다.                                                        |
+> | [7. 시각 - 10월 15일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EC%8B%9C%EA%B0%81.py)                                                                                                           | 특정 수가 한번이라도 들어가있는 00시 00분 00초를 모두 구하는것                                               |
+> | [8. 백준 18406번 럭키 스트레이트 - 10월 24일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98/%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20-%20%EB%B0%B1%EC%A4%80%2018406%EB%B2%88.py) | 반으로 나눠서 양옆에 값이 같다는 것을 구해야 한다                                                         |
+> | [9. 왕실의 나이트 - 22년 1월 23일]() | 나이트의 움직임을 정의하고 , 움직임을 대입했을때 성립하는 경우를 코드로 정의한다. 그러면 그 중에서 나오는 것이 나이트가 갈 수 있는 길의 개수이다. |
 
 ***
 
