@@ -1,4 +1,6 @@
 import sys
+import time
+start = time.time()
 sys.stdin = open('in13.txt','rt')
 n = int(input())
 count = 0
@@ -11,3 +13,4 @@ while n>=0:
     count += 1
 else:
     print(-1)
+print("시간:" , start - time.time())
