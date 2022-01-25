@@ -48,7 +48,7 @@ Data Structure &amp; Algorithms
 > | [7. 시각 - 10월 15일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EC%8B%9C%EA%B0%81.py)                                                                                                              | 특정 수가 한번이라도 들어가있는 00시 00분 00초를 모두 구하는것                                                       |
 > | [8. 백준 18406번 럭키 스트레이트 - 22년 1월 25일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20-%20%EB%B0%B1%EC%A4%80%2018406%EB%B2%88.py) | 반으로 나눠서 양옆에 값이 같다는 것을 구해야 한다. 빼게 되면 음수 값이 나오므로 더했을때 0이지만 , 양 옆에 값을 더했을때 왼쪽과 오른쪽이 같다로 풀어도 된다. |
 > | [9. 왕실의 나이트 - 22년 1월 23일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)                                                               | 나이트의 움직임을 정의하고 , 움직임을 대입했을때 성립하는 경우를 코드로 정의한다. 그러면 그 중에서 나오는 것이 나이트가 갈 수 있는 길의 개수이다.         |
-> | [10. 백준 15686 치킨배달 - 22년 1월 25일]()| 우선 가정 집과 치킨집을 입력받아서 1인 경우 가정집에 저장하고 ,2인 경우 치킨집으로 저장한다. 그리고 치킨집과 가정집 사이의 절대값을 구하여 최소값을 구한다. |
+> | [10. 백준 15686 치킨배달 - 22년 1월 25일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC%20-%20%EB%B0%B1%EC%A4%80%2015686%EB%B2%88.py)| 우선 가정 집과 치킨집을 입력받아서 1인 경우 가정집에 저장하고 ,2인 경우 치킨집으로 저장한다. 그리고 치킨집과 가정집 사이의 절대값을 구하여 최소값을 구한다. |
 
 ***
 
