@@ -50,7 +50,7 @@ Data Structure &amp; Algorithms
 > | [9. 왕실의 나이트 - 22년 1월 23일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)                                                              | 나이트의 움직임을 정의하고 , 움직임을 대입했을때 성립하는 경우를 코드로 정의한다. 그러면 그 중에서 나오는 것이 나이트가 갈 수 있는 길의 개수이다.         |
 > | [10. 백준 15686 치킨배달 - 22년 1월 25일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC%20-%20%EB%B0%B1%EC%A4%80%2015686%EB%B2%88.py)                               | 우선 가정 집과 치킨집을 입력받아서 1인 경우 가정집에 저장하고 ,2인 경우 치킨집으로 저장한다. 그리고 치킨집과 가정집 사이의 절대값을 구하여 최소값을 구한다.   |
 > | [11. 문자열 재정렬 - 22년 1월 28일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC.py)                                                             | 문자열을 입력받아 알파벳이면 리스트에 추가하고 아스키 코드 값의 순서대로 정렬해준다. 그리고 숫자는 더해서 문자열 조인으로 합쳐주면 문자열 재정렬이 완성된다.     |
-> | [12. 문자열 압축 - 22년 1월 29일]()  | 문자열을 입력받았을때 중복되는 경우는 숫자로 치환해준다. |
+> | [12. 문자열 압축 - 22년 1월 29일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)  | 문자열을 입력받았을때 중복되는 경우는 숫자로 치환해준다. |
 
 ***
 
