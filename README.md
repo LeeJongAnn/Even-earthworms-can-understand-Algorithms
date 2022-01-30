@@ -97,7 +97,8 @@ Data Structure &amp; Algorithms
 > | [24. 백준 1789번 수들의 합 - 10월 23일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%20-%20%EB%B0%B1%EC%A4%80%201789%EB%B2%88.py)                                                              | 200이 안되는데?                                                                          |
 > | [25. 백준 10162번 전자레인지 - 10월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80%20-%20%EB%B0%B1%EC%A4%80%2010162%EB%B2%88.py)                                                      | ~~실마리는 잡은것 같은데?~~답안수정 (뭥미..)                                                        |
 > | [26. 백준 1026번 보물 - 22년 1월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%B3%B4%EB%AC%BC%20-%20%EB%B0%B1%EC%A4%80%201026%EB%B2%88.py)                                                                                   | 곱해서 가장 작은 수를 만들어야 한다. 대신 두번째 배열은 정렬해서는 안된다. 그렇다면?                                   |
-> | [27. 백준 10610번 30 - 22년 1월 30일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/30%20-%20%EB%B0%B1%EC%A4%80%2010610%EB%B2%88.py) | 맞는데 왜 틀리지??? (맞왜틀?)|
+> | [27. 백준 10610번 30 - 22년 1월 30일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/30%20-%20%EB%B0%B1%EC%A4%80%2010610%EB%B2%88.py)                                                                                                 | 맞는데 왜 틀리지??? (맞왜틀?)|
+> | [28. 백준 1946번 신입사원 선발 - 22년 1월 30일    ]()                                                                                                      | 첫번째 입력과 두번쨰 입력을 받아서 리스트를 만들었는데 두개를 합치는 과정을 다시 해봐야 할 것 같다.|
 
 
 ## - DFS
