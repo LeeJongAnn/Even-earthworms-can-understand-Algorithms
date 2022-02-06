@@ -31,7 +31,7 @@ Data Structure &amp; Algorithms
 > | 5. 4월 30일 자릿수의 합 풀이           |...|
 > | 6. 5월 12일 에라토스테네스의 체          |...|
 > | 7. [백준 2475번 검증수 - 10월 16일]() | 간단한 계산 문제|
-> | 8. [백준 10871번 X보다 작은 수 - 22년 2월 6일]() | 특정 수가 주어지고 X보다 작은 수를 찾는다. |
+> | 8. [백준 10871번 X보다 작은 수 - 22년 2월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B8%B0%EA%B0%95%EB%8B%A4%EC%A7%80%EA%B8%B0/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98%20-%20%EB%B0%B1%EC%A4%80%2010871%EB%B2%88.py) | 특정 수가 주어지고 X보다 작은 수를 찾는다. |
 
 
 ***
@@ -52,7 +52,7 @@ Data Structure &amp; Algorithms
 > | [10. 백준 15686 치킨배달 - 22년 1월 25일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC%20-%20%EB%B0%B1%EC%A4%80%2015686%EB%B2%88.py)                                | 우선 가정 집과 치킨집을 입력받아서 1인 경우 가정집에 저장하고 ,2인 경우 치킨집으로 저장한다. 그리고 치킨집과 가정집 사이의 절대값을 구하여 최소값을 구한다.   |
 > | [11. 문자열 재정렬 - 22년 1월 28일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC.py)                                                              | 문자열을 입력받아 알파벳이면 리스트에 추가하고 아스키 코드 값의 순서대로 정렬해준다. 그리고 숫자는 더해서 문자열 조인으로 합쳐주면 문자열 재정렬이 완성된다.     |
 > | [12. 문자열 압축 - 22년 1월 29일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py)                                                                        | 문자열을 입력받았을때 중복되는 경우는 숫자로 치환해준다. |
-> | [13. 백준 3190번 뱀 - 22년 2월 1일]() | 왜 이렇게 복잡하냐.. |
+> | [13. 백준 3190번 뱀 - 22년 2월 1일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%B1%80%20-%20%EB%B0%B1%EC%A4%80%203190%EB%B2%88.py) | 왜 이렇게 복잡하냐.. |
 
 ***
 
@@ -114,7 +114,6 @@ Data Structure &amp; Algorithms
 > | [4.중복순열 - 9월 17일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4.py)                                                                 | 한개의 노드에 차수가 여러개이므로 반복문을 사용하여 돌아간다.|
 > | [5.조합 - 9월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A1%B0%ED%95%A9.py)                                                                                     | 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.|
 > | [6.백준 2798번 블랙잭 - 10월 14일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%B8%94%EB%9E%99%EC%9E%AD%20-%20%EB%B0%B1%EC%A4%80%202798.py) | 정답에 근접한 것 같은데 시간초과에 걸림, 불필요한 계산을 줄일 방법을 생각해봐야 될 듯  |
-> | [7.백준 18352번 특정 거리의 도시 찾기 - 22년 2월 2일   ]() | DFS와 그래프를 사용한 문제   |
 
 ## - 정렬
 
