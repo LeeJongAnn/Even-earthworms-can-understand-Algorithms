@@ -22,15 +22,16 @@ Data Structure &amp; Algorithms
 
 ## - 기초
 
-> |기초|설명|
-> |------|---|
-> |1. 4월 22일 K번째 약수 풀이|...|  
-> |2. 4월 24일 K번째 수 풀이|...|
-> |3. 4월 25일 K번째 큰 수 풀이|...|
-> |4. 4월 27일 정다면체 풀이|...|
-> |5. 4월 30일 자릿수의 합 풀이|...|
-> |6. 5월 12일 에라토스테네스의 체 |...|
-> |7. [백준 2475번 검증수 - 10월 16일]() | 간단한 계산 문제|
+> | 기초                            |설명|
+> | ------                        |---|
+> | 1. 4월 22일 K번째 약수 풀이           |...|  
+> | 2. 4월 24일 K번째 수 풀이            |...|
+> | 3. 4월 25일 K번째 큰 수 풀이          |...|
+> | 4. 4월 27일 정다면체 풀이             |...|
+> | 5. 4월 30일 자릿수의 합 풀이           |...|
+> | 6. 5월 12일 에라토스테네스의 체          |...|
+> | 7. [백준 2475번 검증수 - 10월 16일]() | 간단한 계산 문제|
+> | 8. [백준 10871번 X보다 작은 수 - 22년 2월 6일]() | 특정 수가 주어지고 X보다 작은 수를 찾는다. |
 
 
 ***
@@ -71,7 +72,7 @@ Data Structure &amp; Algorithms
 
 ***
 > | Greedy 알고리즘                                                                                                                                                                                                                                                                                  | 설명                                                                                  | 
-> | -------------------------------------------------------------------------------------                                                                                                                                                                                                        |-------------------------| 
+> |-------------------------------------------------------------------------------------|-------------------------| 
 > | [1. 회의실 사용하기 - 6월 30일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95.py)                                                                                                     | 시간 순서상 뒷자리와 앞자리가 이어지도록 만든다                                                          |
 > | [2. 출전할 씨름선수 구하기 - 6월 30일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%94%A8%EB%A6%84%EC%84%A0%EC%88%98%20%EC%84%A0%EB%B0%9C%ED%95%98%EA%B8%B0.py)                                                                      | 튜플 자료형에 몸무게를 비교해서 갱신하고 카운트를 센다                                                      |
 > | [3. 창고 정리하기 - 7월 10일     ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%B0%BD%EA%B3%A0%EC%A0%95%EB%A6%AC.py)                                                                                                                  | 맨 앞과 맨 뒤를 최대와 최소로 놓고 서로 빼준다                                                         |
@@ -96,23 +97,24 @@ Data Structure &amp; Algorithms
 > | [22. 볼링공 고르기 - 22년 1월 24일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%B3%BC%EB%A7%81%EA%B3%B5%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)                                                                                         | 각 무게에 해당하는 볼링공을 배열로 만들어 개수를 구한다. A가 어느 한 공을 선택하면 전체 개수에서 그 공을 뺴주고 나머지를 더해주어야 한다     |
 > | [23. 백준 1715번 카드 정렬하기 - 10월 21일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%20-%20%EB%B0%B1%EC%A4%80%201715%EB%B2%88.py)                                          | 풀 수 있을것 같았는데..                                                                      |
 > | [24. 백준 1789번 수들의 합 - 10월 23일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%88%98%EB%93%A4%EC%9D%98%20%ED%95%A9%20-%20%EB%B0%B1%EC%A4%80%201789%EB%B2%88.py)                                                              | 200이 안되는데?                                                                          |
-> | [25. 백준 10162번 전자레인지 - 10월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80%20-%20%EB%B0%B1%EC%A4%80%2010162%EB%B2%88.py)                                                      | 답안수정 (뭥미..)                                                        |
+> | [25. 백준 10162번 전자레인지 - 10월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80%20-%20%EB%B0%B1%EC%A4%80%2010162%EB%B2%88.py)                                                      | 답안수정 (뭥미..)                                                                         |
 > | [26. 백준 1026번 보물 - 22년 1월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/%EB%B3%B4%EB%AC%BC%20-%20%EB%B0%B1%EC%A4%80%201026%EB%B2%88.py)                                                                                   | 곱해서 가장 작은 수를 만들어야 한다. 대신 두번째 배열은 정렬해서는 안된다. 그렇다면?                                   |
-> | [27. 백준 10610번 30 - 22년 1월 30일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/30%20-%20%EB%B0%B1%EC%A4%80%2010610%EB%B2%88.py)                                                                                                 | 맞는데 왜 틀리지??? (맞왜틀?)|
-> | [28. 백준 1946번 신입사원 선발 - 22년 1월 30일    ]()                                                                                                      | 첫번째 입력과 두번쨰 입력을 받아서 리스트를 만들었는데 두개를 합치는 과정을 다시 해봐야 할 것 같다.|
+> | [27. 백준 10610번 30 - 22년 2월 6일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/Greedy%20Algorithms/30%20-%20%EB%B0%B1%EC%A4%80%2010610%EB%B2%88.py)                                                                                                 | ~~맞는데 왜 틀리지??? (맞왜틀?)~~ -1을 출력하는 과정에서 문제가 발생했는데 해결함                                 |
+> | [28. 백준 1946번 신입사원 선발 - 22년 1월 30일    ]()                                                                                                                                                                                                                                                    | 첫번째 입력과 두번쨰 입력을 받아서 리스트를 만들었는데 두개를 합치는 과정을 다시 해봐야 할 것 같다.                           |
 
 
-## - DFS
+## - DFS/BFS
 
 ***
-> |완전탐색 알고리즘|설명|
-> |------|---|
-> |[1.부분집합 구하기 - 9월 6일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다.|
-> |[2.합이 같은 부분집합 - 9월 6일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)|총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면 그때를 YES로 출력한다.|
-> |[3.강아지 데리고 타기 (cut-Edge) - 9월 9일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EA%B0%95%EC%95%84%EC%A7%80%20%EB%8D%B0%EB%A6%AC%EA%B3%A0%20%ED%83%80%EA%B8%B0.py)| 전체 경우의 수를 다 따지지 않고 합계가 무게 제한을 넘는 경우를 커트해준다.|
-> |[4.중복순열 - 9월 17일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4.py)| 한개의 노드에 차수가 여러개이므로 반복문을 사용하여 돌아간다.|
-> |[5.조합 - 9월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A1%B0%ED%95%A9.py)| 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.|
-> |[6.백준 2798번 블랙잭 - 10월 14일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%B8%94%EB%9E%99%EC%9E%AD%20-%20%EB%B0%B1%EC%A4%80%202798.py)| 정답에 근접한 것 같은데 시간초과에 걸림, 불필요한 계산을 줄일 방법을 생각해봐야 될 듯  |
+> | DFS/BFS                                                                                                                                                                                                          |설명|
+> | ------                                                                                                                                                                                                                 |---|
+> | [1.부분집합 구하기 - 9월 6일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)                                |사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다.|
+> | [2.합이 같은 부분집합 - 9월 6일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)                  |총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면 그때를 YES로 출력한다.|
+> | [3.강아지 데리고 타기 (cut-Edge) - 9월 9일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EA%B0%95%EC%95%84%EC%A7%80%20%EB%8D%B0%EB%A6%AC%EA%B3%A0%20%ED%83%80%EA%B8%B0.py)        | 전체 경우의 수를 다 따지지 않고 합계가 무게 제한을 넘는 경우를 커트해준다.|
+> | [4.중복순열 - 9월 17일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4.py)                                                                 | 한개의 노드에 차수가 여러개이므로 반복문을 사용하여 돌아간다.|
+> | [5.조합 - 9월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A1%B0%ED%95%A9.py)                                                                                     | 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.|
+> | [6.백준 2798번 블랙잭 - 10월 14일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%B8%94%EB%9E%99%EC%9E%AD%20-%20%EB%B0%B1%EC%A4%80%202798.py) | 정답에 근접한 것 같은데 시간초과에 걸림, 불필요한 계산을 줄일 방법을 생각해봐야 될 듯  |
+> | [7.백준 18352번 특정 거리의 도시 찾기 - 22년 2월 2일   ]() | DFS와 그래프를 사용한 문제   |
 
 ## - 정렬
 
