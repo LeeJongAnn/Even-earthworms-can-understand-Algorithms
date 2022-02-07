@@ -1,2 +1,1 @@
-aabbaccc
-2a2ba3c
+The last character is a blank
