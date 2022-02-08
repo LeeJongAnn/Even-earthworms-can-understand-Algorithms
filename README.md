@@ -109,13 +109,13 @@ Data Structure &amp; Algorithms
 ***
 > | DFS/BFS                                                                                                                                                                                                              | 설명                                                       |
 > |----------------------------------------------------------|---|
-> | [1.부분집합 구하기 - 9월 6일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)                              | 사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다.                     |
-> | [2.합이 같은 부분집합 - 9월 6일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%ED%95%A9%EC%9D%B4%20%EA%B0%99%EC%9D%80%20%EB%B6%80%EB%B6%84%EC%A7%91%ED%95%A9.py)                | 총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면 그때를 YES로 출력한다.       |
-> | [3.강아지 데리고 타기 (cut-Edge) - 9월 9일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EA%B0%95%EC%95%84%EC%A7%80%20%EB%8D%B0%EB%A6%AC%EA%B3%A0%20%ED%83%80%EA%B8%B0.py)      | 전체 경우의 수를 다 따지지 않고 합계가 무게 제한을 넘는 경우를 커트해준다.              |
-> | [4.중복순열 - 9월 17일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A4%91%EB%B3%B5%EC%88%9C%EC%97%B4.py)                                                               | 한개의 노드에 차수가 여러개이므로 반복문을 사용하여 돌아간다.                       |
-> | [5.조합 - 9월 28일    ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS/%EC%A1%B0%ED%95%A9.py)                                                                                   | 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.                            |
+> | [1.부분집합 구하기 - 9월 6일    ]()                              | 사용하느냐 사용하지 않느냐를 따지면서 상태트리를 따라서 내려간다.                     |
+> | [2.합이 같은 부분집합 - 9월 6일    ]()                | 총 합에서 상태트리를 따라 내려가면서 일부를 뺐을때 값이 같으면 그때를 YES로 출력한다.       |
+> | [3.강아지 데리고 타기 (cut-Edge) - 9월 9일   ]()      | 전체 경우의 수를 다 따지지 않고 합계가 무게 제한을 넘는 경우를 커트해준다.              |
+> | [4.중복순열 - 9월 17일    ]()                                                               | 한개의 노드에 차수가 여러개이므로 반복문을 사용하여 돌아간다.                       |
+> | [5.조합 - 9월 28일    ]()                                                                                   | 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.                            |
 > | [6.백준 2798번 블랙잭 - 10월 14일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%B8%94%EB%9E%99%EC%9E%AD%20-%20%EB%B0%B1%EC%A4%80%202798.py) | 정답에 근접한 것 같은데 시간초과에 걸림, 불필요한 계산을 줄일 방법을 생각해봐야 될 듯        |
-> | [7. 백준 18352번 특정 거리의 도시 찾기 - 22년 2월 8일 ]() | 1에서 시작하며 1과 연결되어 있는 곳 중에서 거리가 2인 곳을 찾는다. 방문한 지역에 1을 더해준다 |
+> | [7. 백준 18352번 특정 거리의 도시 찾기 - 22년 2월 8일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS%EC%99%80BFS/%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0%20-%20%EB%B0%B1%EC%A4%80%2018352%EB%B2%88.py) | 1에서 시작하며 1과 연결되어 있는 곳 중에서 거리가 2인 곳을 찾는다. 방문한 지역에 1을 더해준다 |
 
 ## - 정렬
 
