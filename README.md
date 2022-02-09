@@ -18,6 +18,7 @@ Data Structure &amp; Algorithms
 
 ### - 6. 정렬 알고리즘
 
+### - 7. DP
 </details>
 
 ## - 기초
@@ -124,3 +125,11 @@ Data Structure &amp; Algorithms
 > |------|---|
 > |[1.위에서 아래로 - 9월 29일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%A0%95%EB%A0%AC/%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C.py)| 기초적인 정렬 문제이다 . 숫자를 내림차순으로 정렬한다.|
 > |[2.성적이 낮은 순서로 출력하기 - 9월 29일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%A0%95%EB%A0%AC/%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)| 점수대로 정렬하고 그와 이어진 이름을 출력한다. 파이썬 문법에 대해서 알아야 한다.|
+
+
+## - DP
+
+***
+> | 정렬 알고리즘 |설명|
+> |---------------|------|
+> | [1.백준 1463번 - 1로 만들기 ]() | 좀 더 생각해봐야할듯...? |
