@@ -2,7 +2,6 @@
 
 Data Structure &amp; Algorithms
 
-
 <details>
 <summary>목차 <- 클릭</summary>
 
@@ -59,7 +58,8 @@ Data Structure &amp; Algorithms
 > | [13. 백준 3190번 뱀 - 22년 2월 1일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%B1%80%20-%20%EB%B0%B1%EC%A4%80%203190%EB%B2%88.py)                                                                   | 왜 이렇게 복잡하냐..                                                                                 |
 > | [14. 백준 1152번 단어의 개수 - 22년 2월 7일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EB%8B%A8%EC%96%B4%EC%9D%98%20%EA%B0%9C%EC%88%98-%20%EB%B0%B1%EC%A4%80%201152%EB%B2%88.py)                          | 문자열이 나올때마다 카운트를 세고 공백이 나오면 카운트를 세는 간단한 방식으로 해결함                                              |
 > | [15. 숫자의 개수 - 백준 2577번 - 22년 2월 12일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B5%AC%ED%98%84/%EC%88%AB%EC%9E%90%EC%9D%98%20%EA%B0%9C%EC%88%98%20-%20%EB%B0%B1%EC%A4%80%202577%EB%B2%88.py)                    | 배열을 만들고 해당하는 숫자의 값을 배열에 넣어서 카운트를 올려주면 배열에서 해당 숫자의 개수를 셀 수 있다.|
-> | [16. 백준 14502번 연구소 - 22년 2월 13일]()                     | DFS를 이용해서 0인 곳은 바이러스가 퍼지게 만든다.|
+> | [16. 백준 14502번 연구소 - 22년 2월 13일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS%EC%99%80BFS/%EC%97%B0%EA%B5%AC%EC%86%8C%20-%20%EB%B0%B1%EC%A4%80%2014502%EB%B2%88.py)                                                                                                                                                                                                                           | DFS를 이용해서 0인 곳은 바이러스가 퍼지게 만든다.|
+> | [17. 백준 2562번 최댓값 - 22년 2월 15일]()| 맞았는데 왜 틀리는거죠? |
 
 ***
 
