@@ -130,7 +130,8 @@ Data Structure &amp; Algorithms
 > | ------                                                                                                                                                                                                                                                        |---|
 > | [1.위에서 아래로 - 9월 29일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%A0%95%EB%A0%AC/%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C.py)                                                                     | 기초적인 정렬 문제이다 . 숫자를 내림차순으로 정렬한다.|
 > | [2.성적이 낮은 순서로 출력하기 - 9월 29일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%A0%95%EB%A0%AC/%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py) | 점수대로 정렬하고 그와 이어진 이름을 출력한다. 파이썬 문법에 대해서 알아야 한다.|
-> | [3. 백준 1181번 단어정렬 - 22년 2월 15일]() | 리스트에 길이에 관한 정보와 문자를 집어넣고 수를 길이에 관한 정보로 정렬해준다. 그럼 순서대로 정렬됨 , 중복 제거도 들어가야함  |
+> | [3. 백준 1181번 단어정렬 - 22년 2월 15일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%A0%95%EB%A0%AC/%EB%8B%A8%EC%96%B4%20%EC%A0%95%EB%A0%AC%20-%20%EB%B0%B1%EC%A4%80%201181%EB%B2%88.py)                                                                                                                                                                                                                             | 리스트에 길이에 관한 정보와 문자를 집어넣고 수를 길이에 관한 정보로 정렬해준다. 그럼 순서대로 정렬됨 , 중복 제거도 들어가야함  |
+> | [4. 백준 1427번 - 소트인사이드 - 22년 2월 16일]()   | 거꾸로 정렬해주는 간단한 문제  |
 
 
 ## - DP
