@@ -122,7 +122,8 @@ Data Structure &amp; Algorithms
 > | [5.조합 - 9월 28일    ]()                                                                                                                                                                                                                                                                 | 중복을 허용하지 않고 뽑으므로 1개씩 더해주면 된다.                            |
 > | [6.백준 2798번 블랙잭 - 10월 14일   ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EB%B8%94%EB%9E%99%EC%9E%AD%20-%20%EB%B0%B1%EC%A4%80%202798.py)                                                                | 정답에 근접한 것 같은데 시간초과에 걸림, 불필요한 계산을 줄일 방법을 생각해봐야 될 듯        |
 > | [7. 백준 18352번 특정 거리의 도시 찾기 - 22년 2월 8일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/DFS%EC%99%80BFS/%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0%20-%20%EB%B0%B1%EC%A4%80%2018352%EB%B2%88.py) | 1에서 시작하며 1과 연결되어 있는 곳 중에서 거리가 2인 곳을 찾는다. 방문한 지역에 1을 더해준다 |
-> | [8. 백준 18405번 경쟁적 전염 - 22년 2월 19일 ]() | 작은 수부터 바이러스가 퍼져나간다. |
+> | [8. 백준 18405번 경쟁적 전염 - 22년 2월 19일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/171d98fa2d3793ec7a95ab0ab52c4ed614df9c35/DFS%EC%99%80BFS/%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC%20-%20%EB%B0%B1%EC%A4%80%2018405%EB%B2%88.py)                                                                                                                                                                                                                                                 | 작은 수부터 바이러스가 퍼져나간다. |
+> | [9. 백준 2606번 - 바이러스 - 22년 2월 24일 ](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/d70ceccd54d7bf5a6fd2026f671a81e6d463dd58/DFS%EC%99%80BFS/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4%20-%20%EB%B0%B1%EC%A4%80%202606%EB%B2%88.py)  | 간단한 DFS문제 ,1로부터 연결된 모든 컴퓨터를 출력해준다. |
 
 ## - 정렬
 
