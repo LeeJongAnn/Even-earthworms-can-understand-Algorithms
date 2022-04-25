@@ -2,42 +2,38 @@ import sys
 from collections import deque
 sys.stdin = open("in20.txt", 'rt')
 
-n,k = map(int,input().split())
-print(n,k)
 
-graph = [[0] * k for _ in range(n)]
-temp = []
-for _ in range(n):
-    temp.append(list(map(int,input().strip())))
+n, m = map(int, input().split())
+graph = []
 
-dx = [0,1,0,-1]
-dy = [1,0,-1,0]
+visited = [[[0] * 2 for _ in range(m)] for _ in range(n)]
+visited[0][0][0] = 1
 
-def move(x,y):
-    for i in range(4):
-        nx = x + dx[i]
-        ny = y + dy[i]
-        if 0<=nx or nx<n or 0<=ny or ny<k:
-            if graph[nx][ny] == 0:
-                graph[nx][ny] = 2
+for i in range(n):
+    graph.append(list(map(int, input())))
 
-def get_score():
-    score = 0
-    for i in range(n):
-        for j in range(k):
-            if graph[i][j] == 0:
-                score += 1
-    return
-result = 0
-def simulate(count):
-    global result
-    if count == 1:
-        for i in range(n):
-            for j in range(k):
-                graph[i][j] = temp[i][j]
-        for i in range(n):
-            for j in range(k):
-                if graph[i][j] == 0:
-                    move(i,j)
-        result = max(result,get_score())
-    return
+dx = [0, 0, 1, -1]
+dy = [1, -1, 0, 0]
+
+
+def bfs(x, y, z):
+    queue = deque()
+    queue.append((x, y, z))
+
+    while queue:
+        a, b, c = queue.popleft()
+        if a == n - 1 and b == m - 1:
+            return visited[a][b][c]
+        for i in range(4):
+            nx = a + dx[i]
+            ny = b + dy[i]
+            if nx < 0 or nx >= n or ny < 0 or ny >= m:
+                continue
+            if graph[nx][ny] == 1 and c == 0 :
+                visited[nx][ny][1] = visited[a][b][0] + 1
+                queue.append((nx, ny, 1))
+            elif graph[nx][ny] == 0 and visited[nx][ny][c] == 0:
+                visited[nx][ny][c] = visited[a][b][c] + 1
+                queue.append((nx, ny, c))
+    return -1
+print(bfs(0, 0, 0))
