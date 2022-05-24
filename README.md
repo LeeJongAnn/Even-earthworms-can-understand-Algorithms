@@ -23,12 +23,13 @@ Data Structure &amp; Algorithms
 ## - 기초
 
 > | 기초                                                                                                                                                                                                                                                                       |설명|
-> | ------                                                                                                                                                                                                                                                                   |---|
+> |------|---|
 > | 7. [백준 2475번 검증수 - 10월 16일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B8%B0%EA%B0%95%EB%8B%A4%EC%A7%80%EA%B8%B0/%EA%B2%80%EC%A6%9D%EC%88%98%20-%20%EB%B0%B1%EC%A4%80%202475%EB%B2%88.py)                                   | 간단한 계산 문제|
 > | 8. [백준 10871번 X보다 작은 수 - 22년 2월 6일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B8%B0%EA%B0%95%EB%8B%A4%EC%A7%80%EA%B8%B0/X%EB%B3%B4%EB%8B%A4%20%EC%9E%91%EC%9D%80%20%EC%88%98%20-%20%EB%B0%B1%EC%A4%80%2010871%EB%B2%88.py) | 특정 수가 주어지고 X보다 작은 수를 찾는다. |
 > | 9. [백준 2587번 곱셈 - 22년 2월 9일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B8%B0%EA%B0%95%EB%8B%A4%EC%A7%80%EA%B8%B0/%EA%B3%B1%EC%85%88%20-%20%EB%B0%B1%EC%A4%80%202588%EB%B2%88.py)                                           | 곱셈의 표현 |
 > | 10. [백준 11720번 숫자의 합 - 22년 2월 9일](https://github.com/LeeJongAnn/Even-earthworms-can-understand-Algorithms/blob/master/%EA%B8%B0%EA%B0%95%EB%8B%A4%EC%A7%80%EA%B8%B0/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%95%A9%20-%20%EB%B0%B1%EC%A4%80%2011720%EB%B2%88.py)                | 순차적으로 더해서 나오는 값을 구한다. |
-> | 11. [백준 1546번 평균 - 22년 2월 11일]()                | 문제를 잘못 이해해서 헤맸다.. |
+> | 11. [백준 1546번 평균 - 22년 2월 11일]()                                                                                                                                                                                                                                         | 문제를 잘못 이해해서 헤맸다.. |
+> | 12. [x만큼 간격이 있는 n개의 숫자 - 22년 5월 24일]()| 간단한 곱셈 문제 |
 
 
 ***
