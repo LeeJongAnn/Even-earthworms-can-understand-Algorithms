@@ -8,7 +8,7 @@ def solution(arr):
         array1.append(arr[i])
         answer += array1[i]
     print(array1)
-    answer = answer//len(arr)
+    answer = answer/len(arr)
     return answer
 
 print(solution(arr))
